@@ -1,3 +1,3 @@
 # lpg-gas-detector
-#check the working device from the link below
-#<a href="https://youtu.be/OJkG7SOZuqY">project vedio</a>
+#click on the btn to watch the worked project vedio
+#<button><a href="https://youtu.be/OJkG7SOZuqY">project</a></button>
